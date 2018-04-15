@@ -1,0 +1,132 @@
+/** AVENIR **/
+
+@font-face {
+	font-family: AvenirUltLight;
+	src: url(../fonts/AvenirNextLTPro-UltLt.otf);
+}
+@font-face {
+	font-family: AvenirUltLightItalic;
+	src: url(../fonts/AvenirNextLTPro-UltLtIt.otf);
+}
+@font-face {
+	font-family: AvenirRegularItalic;
+	src: url(../fonts/AvenirNextLTPro-It.otf);
+}
+@font-face {
+	font-family: AvenirRegular;
+	src: url(../fonts/AvenirNextLTPro-Regular.otf);
+}
+@font-face {
+	font-family: AvenirMedium;
+	src: url(../fonts/AvenirNextLTPro-Medium.otf);
+}
+@font-face {
+	font-family: AvenirMediumItalic;
+	src: url(../fonts/AvenirNextLTPro-MediumIt.otf);
+}
+@font-face {
+	font-family: AvenirDemi;
+	src: url(../fonts/AvenirNextLTPro-Demi.otf);
+}
+@font-face {
+	font-family: AvenirDemiItalic;
+	src: url(../fonts/AvenirNextLTPro-DemiIt.otf);
+}
+@font-face {
+	font-family: AvenirBold;
+	src: url(../fonts/AvenirNextLTPro-Bold.otf);
+}
+@font-face {
+	font-family: AvenirBoldItalic;
+	src: url(../fonts/AvenirNextLTPro-BoldIt.otf);
+}
+@font-face {
+	font-family: AvenirHeavy;
+	src: url(../fonts/AvenirNextLTPro-Heavy.otf);
+}
+@font-face {
+	font-family: AvenirHeavyItalic;
+	src: url(../fonts/AvenirNextLTPro-HeavyIt.otf);
+}
+
+
+
+/** AVENIR CONDENSED **/
+
+@font-face {
+	font-family: AvenirUltLightCondensed;
+	src: url(../fonts/AvenirNextLTPro-UltLtCn.otf);
+}
+@font-face {
+	font-family: AvenirUltLightCondensedItalic;
+	src: url(../fonts/AvenirNextLTPro-UltLtCnIt.otf);
+}
+@font-face {
+	font-family: AvenirLightCondensed;
+	src: url(../fonts/AvenirNextLTPro-Cn.otf);
+}
+@font-face {
+	font-family: AvenirLightCondensedItalic;
+	src: url(../fonts/AvenirNextLTPro-CnIt.otf);
+}
+@font-face {
+	font-family: AvenirMediumCondensed;
+	src: url(../fonts/AvenirNextLTPro-MediumCn.otf);
+}
+@font-face {
+	font-family: AvenirMediumCondensedItalic;
+	src: url(../fonts/AvenirNextLTPro-MediumCnIt.otf);
+}
+@font-face {
+	font-family: AvenirDemiCondensed;
+	src: url(../fonts/AvenirNextLTPro-DemiCn.otf);
+}
+@font-face {
+	font-family: AvenirDemiCondensedItalic;
+	src: url(../fonts/AvenirNextLTPro-DemiCnIt.otf);
+}
+@font-face {
+	font-family: AvenirBoldCondensed;
+	src: url(../fonts/AvenirNextLTPro-BoldCn.otf);
+}
+@font-face {
+	font-family: AvenirBoldCondensedItalic;
+	src: url(../fonts/AvenirNextLTPro-BoldCnIt.otf);
+}
+@font-face {
+	font-family: AvenirHeavyCondensed;
+	src: url(../fonts/AvenirNextLTPro-HeavyCn.otf);
+}
+@font-face {
+	font-family: AvenirHeavyCondensedItalic;
+	src: url(../fonts/AvenirNextLTPro-HeavyCnIt.otf);
+}
+
+
+
+/** GARAMOND **/
+
+@font-face {
+	font-family: Garamond08;
+	src: url(../fonts/EBGaramond08-Regular.ttf);
+}
+@font-face {
+	font-family: Garamond08Italic;
+	src: url(../fonts/EBGaramond08-Italic.ttf);
+}
+@font-face {
+	font-family: Garamond12;
+	src: url(../fonts/EBGaramond12-Regular.ttf);
+}
+@font-face {
+	font-family: Garamond12Italic;
+	src: url(../fonts/EBGaramond12-Italic.ttf);
+}
+@font-face {
+	font-family: GaramondSC08;
+	src: url(../fonts/EBGaramondSC08-Regular.ttf);
+}
+@font-face {
+	font-family: GaramondSC12;
+	src: url(../fonts/EBGaramondSC12-Regular.ttf);
+}

@@ -1,0 +1,15 @@
+@import url("fonts.css");
+
+
+html {
+	background: #F9F9F9;
+	font-family: 'AvenirBoldCondensed', sans-serif;
+}
+div {
+	font-size: 45px;
+	margin-top: 20%;
+	text-align: center;
+}
+p {
+	margin: 0;
+}
