@@ -2,29 +2,63 @@
 
 
 html {
-	background: #F9F9F9;
+	background: #3E3E3E;
 	font-family: FiraSans;
+	color: #3E3E3E;
 }
 p {
 	margin: 0;
 }
 
+#backdrop {
+	background: white;
+	position: absolute;
+	width: 90%;
+	max-width: 1200px;
+	min-height: 900px;
+	margin: -6% 0 0 4%;
+	z-index: -999;
+	border-radius: 10px;
+	box-shadow: 0px 0px 25px black;
+}
+
 #interim {
-	margin: 10% 0 0 10%;
+	margin: 10% 10% 0 12%;
 	text-align: left;
-	max-width: 800px;
+	max-width: 720px;
 }
 #name {
 	font-weight: 700;
+	font-size: 30px;
+	font-family: FiraSansCondensed;
+	color: #9E9E9E;
+	border-left: 5px solid #47CEBD;
+	padding: 0 0 1px 10px;
+	height: 37px;
+	margin-left: -13px;
 }
 #headline {
 	font-weight: 700;
 	font-size: 50px;
-	margin-top: 10%;
+	margin-top: 15%;
+	line-height: 1.2em;
 }
 #statement {
+	margin-top: 8%;
 	font-weight: 200;
+	line-height: 1.5em;
+	font-size: 28px;
 }
 #portfolio-message {
 	font-weight: 200;
+	margin-top: 8%;
+	font-size: 20px;
+}
+#link {
+	text-decoration: none;
+	color: #3E3E3E;
+	transition: 0.25s ease;
+}
+#link:hover {
+	color: #47CEBD;
 }
