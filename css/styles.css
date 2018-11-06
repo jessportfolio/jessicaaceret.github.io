@@ -3,13 +3,28 @@
 
 html {
 	background: #F9F9F9;
-	font-family: 'AvenirBoldCondensed', sans-serif;
-}
-div {
-	font-size: 85px;
-	margin-top: 10%;
-	text-align: center;
+	font-family: FiraSans;
 }
 p {
 	margin: 0;
+}
+
+#interim {
+	margin: 10% 0 0 10%;
+	text-align: left;
+	max-width: 800px;
+}
+#name {
+	font-weight: 700;
+}
+#headline {
+	font-weight: 700;
+	font-size: 50px;
+	margin-top: 10%;
+}
+#statement {
+	font-weight: 200;
+}
+#portfolio-message {
+	font-weight: 200;
 }
