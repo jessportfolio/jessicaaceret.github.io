@@ -15,7 +15,7 @@ p {
 	position: absolute;
 	width: 90%;
 	max-width: 1200px;
-	min-height: 900px;
+	min-height: 1200px;
 	margin: -6% 0 0 4%;
 	z-index: -999;
 	border-radius: 10px;
@@ -61,4 +61,12 @@ p {
 }
 #link:hover {
 	color: #47CEBD;
+}
+#penguin {
+	margin: 60px auto;
+	text-align: center;
+}
+#penguin img {
+	max-width: 700px;
+	width: 100%;
 }
