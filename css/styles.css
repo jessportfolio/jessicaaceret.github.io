@@ -29,22 +29,16 @@ p {
 #headline {
 	font-weight: 700;
 	font-size: 50px;
-	margin-top: 8%;
+	margin-top: 80px;
 	line-height: 1.2em;
 	max-width: 720px;
 }
-#statement {
-	margin-top: 5%;
+.statement {
+	margin-top: 30px;
 	font-weight: 200;
 	line-height: 1.5em;
-	font-size: 28px;
-	max-width: 720px;
-}
-#portfolio-message {
-	font-weight: 200;
-	margin-top: 8%;
-	font-size: 20px;
-	max-width: 720px;
+	font-size: 22px;
+	max-width: 750px;
 }
 #link {
 	text-decoration: none;
@@ -53,13 +47,4 @@ p {
 }
 #link:hover {
 	color: #47CEBD;
-}
-#penguin {
-	margin-top: 100px;
-	text-align: center;
-	max-width: 900px;
-}
-#penguin img {
-	max-width: 800px;
-	width: 100%;
 }
